@@ -1,0 +1,4 @@
+interface:
+  display_name: "Enable ShanghaiTech IPv6"
+  short_description: "Configure campus DHCPv6 routes on Windows and Linux"
+  default_prompt: "Use $enable-shanghaitech-ipv6 to make an existing ShanghaiTech DHCPv6 address internet-reachable."
